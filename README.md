@@ -76,3 +76,7 @@ You do not need to copy the exact styles of a site - you can use them for inspir
 - Create a new issue on this repository with links to your projects. Make the title of the issue your full name. In the comment include:
   - A link to the code repository/repositories
   - A link to the live site (frontend and API if you built them separately)
+
+## Rubric
+
+![rubric](./rubric.png)
