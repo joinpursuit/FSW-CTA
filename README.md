@@ -19,22 +19,22 @@ Choose a site from the following list and build a copy of it. Each site has its 
   - A way to search tweets by #hashtags
   - Bonus: add liking tweets / retweet functionality
   - Bonus: Ability to upload a photo with tweet
-- Yelp
+<!-- - Yelp
   - Homepage with a search/listing of categories
   - A search results page
   - A detail page for each business
   - A page where users can leave comments/reviews on a business
   - Bonus: a way for users to create new businesses
-  - Bonus: a map to show locations of businesses
-- Reddit
+  - Bonus: a map to show locations of businesses -->
+<!-- - Reddit
   - A homepage that shows posts from each subreddit 
   - Ability to create a new subreddit
   - A way to create a new post in a subreddit
   - Upvote/downvote system for posts
   - Bonus: Photo uploading with posts
   - Bonus: Subscribing to subreddits, which determines what content shows on the homepage
-- Facebook
-  - Homepage showing a news feed of all posts
+- Facebook -->
+  <!-- - Homepage showing a news feed of all posts
   - Profile page showing a single person's posts
   - Ability to write on another user's "wall" (profile page)
   - Liking & sharing functionality 
@@ -45,7 +45,7 @@ Choose a site from the following list and build a copy of it. Each site has its 
   - Ability to create a new post - with photo uploading capabilities 
   - Commenting on posts
   - Bonus: Search by hashtag
-  - Bonus: Friending / following feature, which affects what shows on your homepage.
+  - Bonus: Friending / following feature, which affects what shows on your homepage. -->
 
 Based on these features, think about what database tables you'll need, and how the responsive layout shows and hides content. Use the actual sites as your inspiration. Inspect their code! See how they lay things out and how they change when you resize the browser. Use the react devtools to look at what their components are.
 
